@@ -70,6 +70,7 @@ p {
 .hero-text h1 {
   font-size: 6rem;
   margin-bottom: 10px;
+  padding: 10px;
   background: linear-gradient(to right, #ff7e5f, #feb47b);
   -webkit-background-clip: text;
   color: transparent;
