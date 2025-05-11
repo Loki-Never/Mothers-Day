@@ -12,7 +12,6 @@ h1 {
   font-size: 6rem;
   text-align: center;
   margin-bottom: 20px;
-  padding: 10px;
 }
 
 h2 {
@@ -63,7 +62,7 @@ p {
 
 .hero-text {
   color: black;
-  padding: 20px 35px 50px;
+  padding: 20px 50px 50px;
   border-radius: 20px;
 }
 
